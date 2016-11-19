@@ -12,7 +12,8 @@ body {
 	font-family: 'Roboto', serif;
 	font-size: 2em;
 	color: white;
-	width:50%;
+	width:42%;
+	border:1px solid black;
 	transition: 2 ease-in;
 }
 
@@ -43,7 +44,7 @@ input[type='radio'] {
 	display: none;
 	position: absolute;
 	top:40px;
-	left:100px;
+	left:0px;
 	font-size: .8em;
 	-webkit-transition: all 1s ease;
 	transform:rotate(360deg);
