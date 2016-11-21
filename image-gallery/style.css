@@ -44,8 +44,8 @@ body {
 .image-container .current-image {
 	width: 100%;
   	display: none;
-  	-webkit-animation: 1s scale-up-center;
-  	animation: 1s scale-up-center;
+  	-webkit-animation: 1s click-current-image;
+  	animation: 1s click-current-image;
 }
 
 
@@ -54,7 +54,7 @@ body {
 
 }
 
-@-webkit-keyframes scale-up-center {
+@-webkit-keyframes  click-current-image{
   0% {
     display: block;
     opacity: 0;
