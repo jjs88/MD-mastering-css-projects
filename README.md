@@ -14,4 +14,4 @@ This project uses radio buttons/labels as the basis for the accordian look. Simi
 ##Business Card Component
 [live business card](https://jjs88.github.io/MD-mastering-css-projects/business-card-component)
 
-In progress.
+This project uses pure CSS3 to create a flip card.
