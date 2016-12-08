@@ -17,6 +17,6 @@ This project uses radio buttons/labels as the basis for the accordian look. Simi
 This project uses pure CSS3 to create a flip card.
 
 ##Image Gallery Component
-[live business card](https://jjs88.github.io/MD-mastering-css-projects/image-gallery)
+[live image gallery](https://jjs88.github.io/MD-mastering-css-projects/image-gallery)
 
 Clicking through each image will make it take up the whole screen.
